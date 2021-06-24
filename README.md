@@ -3,14 +3,17 @@ Desafío - Ciclos
 
 Uso:
 
-- Desafio iterador.rb:<br>
+1 - Desafio iterador.rb:<br>
   ruby iterador.rb
 
-- Desafio cuenta_regresiva.rb <num_max_count>:<br>
+2 - Desafio cuenta_regresiva.rb <num_max_count>:<br>
   ruby cuenta_regresiva.rb 10
 
-- Desafio solo_pares.rb <cant_num_par> (Resultado incluye el 0 como par):<br>
+3.a - Desafio solo_pares.rb <cant_num_par> (Resultado incluye el 0 como par):<br>
   ruby solo_pares.rb 5
   
-- Desafio solo_pares2.rb <cant_num_par> (Resultado excluye el 0 como par):<br>
+3.b - Desafio solo_pares2.rb <cant_num_pair> (Resultado excluye el 0 como par):<br>
   ruby solo_pares2.rb 5
+
+4 - Desafio solo_impares.rb <cant_num_impair>:<br>
+  ruby solo_impares.rb 5
