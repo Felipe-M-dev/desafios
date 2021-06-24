@@ -22,3 +22,6 @@ Uso:
 
 6 - Desafio lorem_generator.rb <cant_lorem>:<br>
   ruby lorem_generator.rb 3
+
+7 - Desafio gen.rb <cant_letras>:<br>
+  ruby gen.rb 4
