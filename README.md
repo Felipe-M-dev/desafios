@@ -19,3 +19,6 @@ Uso:
 
 5 - Desafio suma_pares.rb:<br>
   ruby suma_pares.rb 20
+
+6 - Desafio lorem_generator.rb <cant_lorem>:<br>
+  ruby lorem_generator.rb 3
