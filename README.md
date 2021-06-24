@@ -1,5 +1,4 @@
-# desafios
-Desafío - Ciclos
+# Desafios - Ciclos
 
 Uso:
 
@@ -17,3 +16,6 @@ Uso:
 
 4 - Desafio solo_impares.rb <cant_num_impair>:<br>
   ruby solo_impares.rb 5
+
+5 - Desafio suma_pares.rb:<br>
+  ruby suma_pares.rb 20
