@@ -26,5 +26,5 @@ Uso:
 7 - Desafio gen.rb <cant_letras>:<br>
   ruby gen.rb 4
 
-8 - Desafio fuerza_bruta.rb <password> (A mayor cantidad caracteres, mas tarda el procesamiento. Paciencia):<br>
+8 - Desafio fuerza_bruta.rb <pass_to_check> (A mayor cantidad caracteres pass_to_check, mas tarda el procesamiento. Paciencia):<br>
   ruby fuerza_bruta.rb pass
